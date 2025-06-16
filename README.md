@@ -26,7 +26,7 @@
 ### 📫 Let's Connect
 
 - 📧 Email: dhirajkumarsingh843@gmail.com
-- <!--
+<!-- - 
 - 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 - -->
 
